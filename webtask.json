@@ -1,10 +1,9 @@
 {
-  "codeUrl": "https://raw.githubusercontent.com/ali-ince/auth0-logs-to-datadog/master/auth0-logs-to-datadog.extension.1.0.0.js",
   "author": "auth0",
   "type": "cron",
   "category": "log_export",
   "initialUrlPath": "/login",
-  "repository": "https://github.com/ali-ince/auth0-logs-to-provider",
+  "repository": "https://github.com/ali-ince/auth0-logs-to-datadog",
   "keywords": [
     "auth0",
     "extension"
