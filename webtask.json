@@ -3,7 +3,7 @@
   "type": "cron",
   "category": "log_export",
   "initialUrlPath": "/login",
-  "repository": "https://github.com/ali-ince/auth0-logs-to-datadog",
+  "repository": "https://github.com/ali-ince/auth0-logs-to-provider",
   "keywords": [
     "auth0",
     "extension"
