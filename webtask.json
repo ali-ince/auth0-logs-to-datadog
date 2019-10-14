@@ -1,4 +1,5 @@
 {
+  "codeUrl": "https://raw.githubusercontent.com/ali-ince/auth0-logs-to-datadog/master/auth0-logs-to-datadog.extension.1.0.0.js",
   "author": "auth0",
   "type": "cron",
   "category": "log_export",
